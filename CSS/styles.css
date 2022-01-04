@@ -38,6 +38,10 @@ p{
   padding: 50px 0 20px;
 
 }
+.profile-desc{
+  width: 50%;
+  margin: 10px auto 10px auto;
+}
 .skill-row{
   width:50%;
   margin:100px auto 100px auto;
@@ -100,6 +104,8 @@ p{
 .copy-right{
   color: #406882;
   font-size: 0.75rem;
+  width: 50%;
+  margin: 10px auto 10px auto;
 }
 .footer-link{
   color: #EEF2FF;
